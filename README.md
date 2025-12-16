@@ -21,5 +21,6 @@
 - Full-Stack Web System- Legal Case RAG (Illinois Case Dataset)
 🔗 https://github.com/RuijiaChang/Legal-Case-RAG
 
-📄 Resume: https://github.com/RuijiaChang/resume/blob/main/Resume-RuijiaChang.pdf
+📄 Resume
+https://github.com/RuijiaChang/resume/blob/main/Resume-RuijiaChang.pdf
 
