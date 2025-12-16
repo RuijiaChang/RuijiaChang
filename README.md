@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ruijia (Rachel) 👋
 
-<!--
-**RuijiaChang/RuijiaChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MEng ECE @ UIUC  
+💼 Software Engineer & Data Scientist
 
-Here are some ideas to get you started:
+🔍 Interests
+- ML-driven software systems
+- Data Science (CV/NLP/LLMs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+- Languages: Python, C/C++, SQL, Java, JavaScript, Bash
+- ML & Data: PyTorch, scikit-learn, Pandas
+- Backend & Systems: FastAPI, Docker, Linux, AWS
+- Data Systems: Spark, Hadoop/Hive
+
+📌 Selected Work
+- Wrist Wearable Sensor to Predict Opioid-Induced Respiratory Depression
+🔗 https://github.com/RuijiaChang/Wrist-Wearable-Sensor-to-Predict-Opioid-Induced-Respiratory-Depression
+- Supervised Contrastive Learning for Chromosome Recognition
+🔗 https://github.com/RuijiaChang/Chromosome-SCL-Encoder
+- Full-Stack Web System- Legal Case RAG (Illinois Case Dataset)
+🔗 https://github.com/RuijiaChang/Legal-Case-RAG
