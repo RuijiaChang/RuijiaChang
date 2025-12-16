@@ -20,3 +20,6 @@
 🔗 https://github.com/RuijiaChang/Chromosome-SCL-Encoder
 - Full-Stack Web System- Legal Case RAG (Illinois Case Dataset)
 🔗 https://github.com/RuijiaChang/Legal-Case-RAG
+
+📄 Resume: [https://github.com/你的用户名/你的repo/blob/main/Ruijia_Chang_Resume.pdf](https://github.com/RuijiaChang/resume/blob/main/Resume-RuijiaChang.pdf)
+
