@@ -33,15 +33,15 @@
 
 ## 📌 Selected Work
 
-### 🤖 E-commerce Customer Support RAG + Tool-Calling Agent  
+### 🤖 Domain-Specialized Multi-Agent Customer Support System
 Built a multi-agent customer support system over structured order/product data and unstructured policy knowledge, supporting policy-grounded Q&A, SQL-backed order lookup, refund workflows, routing, validation, and fallback escalation.  
 🔗 https://github.com/RuijiaChang/ecommerce-support-rag-agent
 
-### 🧠 Long-Term Memory Research Agent for Paper Review  
+### 🧠 Long-Term Memory Agent for Document and Knowledge Management  
 Built a stateful research assistant over public AI/LLM papers, supporting multi-step paper Q&A, cross-paper comparison, reading-task tracking, persistent research profiles, memory compression, and checkpoint recovery.  
 🔗 https://github.com/RuijiaChang/long-term-memory-research-agent
 
-### 🫁 Wrist Wearable Sensor to Predict Opioid-Induced Respiratory Depression  
+### 🫁 Edge-AI Pipeline for Real-time Respiratory Depression Forecasting
 Developed a wearable time-series forecasting pipeline for respiratory risk prediction using PPG signal features, multi-horizon labels, and ML models under edge-device constraints.  
 🔗 https://github.com/RuijiaChang/Wrist-Wearable-Sensor-to-Predict-Opioid-Induced-Respiratory-Depression
 
