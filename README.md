@@ -43,7 +43,7 @@ Built a stateful research assistant over public AI/LLM papers, supporting multi-
 
 ### 🫁 Edge-AI Pipeline for Real-time Respiratory Depression Forecasting
 Developed a wearable time-series forecasting pipeline for respiratory risk prediction using PPG signal features, multi-horizon labels, and ML models under edge-device constraints.  
-🔗 https://github.com/RuijiaChang/Wrist-Wearable-Sensor-to-Predict-Opioid-Induced-Respiratory-Depression
+🔗 https://github.com/RuijiaChang/EdgeAI-Respiratory-Monitoring
 
 ### 🧬 Visual Encoders for Generalized Chromosome Recognition (IEEE ICIP2025)
 Developed a supervised contrastive learning framework for generalized chromosome recognition across multi-center image distributions.  
